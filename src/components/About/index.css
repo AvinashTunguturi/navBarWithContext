@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.dark-bg {
+  background-color: #000000;
+}
+.light-bg {
+  background-color: #ffffff;
+}
+
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.image {
+  height: 140px;
+  width: 140px;
+}

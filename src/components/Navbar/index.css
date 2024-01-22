@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.ul-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  list-style-type: none;
+}
+.grey-bg {
+  background-color: #334155;
+}
+.logo {
+  width: 60px;
+  height: 60px;
+}
+.light-theme-text {
+  text-decoration: none;
+  margin: 10px;
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: bold;
+}
+.dark-theme-text {
+  text-decoration: none;
+  margin: 10px;
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.logo-button {
+  border-style: none;
+  background-color: transparent;
+}
